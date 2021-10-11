@@ -9,7 +9,7 @@ on:
 env:
   FUZZING_SERVER_ADDRESS: taocpp.app.code-intelligence.com:6773
   WEB_APP_ADDRESS:  https://taocpp.app.code-intelligence.com
-  PROJECT_ID: projects/organizations_9ebb593abaa9ec32_json_git-c185af5d
+  PROJECT_ID: projects/73848196_github_taocpp-json_git-7996a829
 
 
 jobs:
